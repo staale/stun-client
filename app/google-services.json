@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969859116119",
+    "firebase_url": "https://simpl-stun.firebaseio.com",
+    "project_id": "simpl-stun",
+    "storage_bucket": "simpl-stun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969859116119:android:466343a608f9181a3f4712",
+        "android_client_info": {
+          "package_name": "com.skagenfondene.simpl.stun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969859116119-enmgapkr4h96lam4jr7rpj4cagb8advb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHWXRZupINXORwSh166G0gWdIJkuie48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969859116119-enmgapkr4h96lam4jr7rpj4cagb8advb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
